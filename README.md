@@ -1,2 +1,4 @@
 # valuable-web
-valuablerpg wen site index
+# valuablerpg web site index
+
+edited and developed by cryrex // gönül rahatlığıyla kullanabilirsiniz :)
